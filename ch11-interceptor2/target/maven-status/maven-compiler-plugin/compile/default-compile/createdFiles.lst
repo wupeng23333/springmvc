@@ -1,0 +1,3 @@
+com\wupeng\controller\MyController.class
+com\wupeng\handler\MyInterceptor.class
+com\wupeng\handler\MyInterceptor2.class

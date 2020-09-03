@@ -1,0 +1,5 @@
+com\wupeng\exception\AgeException.class
+com\wupeng\handler\GlobalExceptionHandler.class
+com\wupeng\controller\MyController.class
+com\wupeng\exception\MyUserException.class
+com\wupeng\exception\NameException.class
